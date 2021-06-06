@@ -1,0 +1,52 @@
+{
+  "name": "宇宙",
+  "children": [
+    {
+      "name": "仙女座",
+      "value": 12
+    },
+    {
+      "name": "银河系",
+      "children": [
+        {
+          "name": "地球",
+          "children": [
+            {
+              "name": "亚洲",
+              "children": [
+                {
+                  "name": "中国",
+                  "value": 2
+                },
+                {
+                  "name": "俄罗斯",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "非洲",
+              "value": 2
+            },
+            {
+              "name": "北美洲",
+              "value": 2
+            },
+            {
+              "name": "南美洲",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "火星",
+          "value": 4
+        },
+        {
+          "name": "水星",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}
